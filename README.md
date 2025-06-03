@@ -160,9 +160,3 @@ npm run dev
 
 **Ashutosh Mishra**  
 [GitHub – @ashugh12](https://github.com/ashugh12)
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
